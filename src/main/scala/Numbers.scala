@@ -28,9 +28,11 @@ def num():Unit={
   val days: Short = 30_000
   println(days.getClass)
 
-  val meds:Int = 3
+//  val meds:Int = 3
+//
+//  println(meds.getClass)
 
-  println(meds.getClass)
+
 
 }
 
