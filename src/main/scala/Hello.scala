@@ -8,5 +8,16 @@
 //object Hello {
 //  def main(args:Array[String]): Unit = print("Hello world!")
 //}
+@main
+def hello():Unit={
+
+def main(args: Array[String]): Unit = {
+  println("Hello world!")
+
+}
+
+
+
+}
 
 

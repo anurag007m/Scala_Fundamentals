@@ -120,7 +120,6 @@ def main(): Unit = {
   doctor.study()
   doctor.study()
   doctor.work()
-  
 }
 
 open class Job{
@@ -143,3 +142,4 @@ open class Job{
 class Engineer extends Job
 
 class Doctor extends Job
+
